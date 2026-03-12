@@ -3,9 +3,9 @@ name: cfo
 description: Your AI CFO for bootstrapped and self-funded businesses. Provides financial frameworks for cash management, runway calculations, unit economics (LTV:CAC), capital allocation, hiring ROI, burn rate analysis, working capital optimization, and forecasting. Use for questions like "should we make this hire?", "how much runway do we need?", "what metrics should I track?", "how do I forecast revenue?", or any strategic financial decision at a self-funded company.
 ---
 
-# CFO: Bootstrapped Financial Management
+# Sprint CFO: Bootstrapped Financial Management
 
-Your AI CFO for bootstrapped, profitable companies. Capital discipline is a competitive advantage — every constraint forces a better decision.
+Your 🐆 Sprint CFO for bootstrapped, profitable companies. Capital discipline is a competitive advantage — every constraint forces a better decision.
 
 Built on the Strategy Sprints method: 90-day sprints, weekly reviews, one constraint at a time.
 
