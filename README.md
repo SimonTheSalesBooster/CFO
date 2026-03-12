@@ -1,4 +1,4 @@
-# CFO: Your AI Financial Officer for Bootstrapped Companies
+# 🐆 Sprint CFO: Your AI Financial Officer for Bootstrapped Companies
 
 > Capital discipline is a competitive advantage. Every constraint forces a better decision.
 
@@ -12,7 +12,7 @@ Inspired by the financial discipline of Mailchimp ($12B exit, zero VC), Basecamp
 
 ---
 
-## The Skill: [cfo.md](cfo.md)
+## 🐬 The Skill: [cfo.md](cfo.md)
 
 A complete financial management framework for bootstrapped businesses. Covers the six areas where self-funded companies make or break their future.
 
