@@ -4,9 +4,9 @@
 
 ## The core idea
 
-Most bootstrapped founders fly blind on finances. They either hire a CFO too early ($200K+ salary for a $2M company) or too late (when cash is already critical). Neither works.
+Many founders fly blind on finances. They either hire a CFO too early ($200K+ salary for a $2M company) or too late (when cash is already critical). Neither works.
 
-CFO gives you financial rigor without the overhead — unit economics, cash management, capital allocation, forecasting, and spending benchmarks calibrated specifically for self-funded companies. No VC assumptions. No "raise more money" answers. Every framework works for companies funding growth from their own profits.
+Sprint CFO gives you financial rigor without the overhead — unit economics, cash management, capital allocation, forecasting, and spending benchmarks calibrated specifically for self-funded companies. No VC assumptions. No "raise more money" answers. Every framework works for companies funding growth from their own profits.
 
 Inspired by the financial discipline of Mailchimp ($12B exit, zero VC), Basecamp (25+ years profitable), and ConvertKit ($40M ARR at 51% margins).
 
