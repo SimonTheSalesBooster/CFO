@@ -1,40 +1,18 @@
-# 🐆 Sprint CFO: Your AI Financial Officer for Bootstrapped Companies
+# Your $200K CFO Decision Is Probably Wrong
 
-> Capital discipline is a competitive advantage. Every constraint forces a better decision.
+Most founders either hire a CFO too early (burning $200K+ on a $2M company) or too late (when cash is already critical).
 
-## The core idea
-
-Many founders fly blind on finances. They either hire a CFO too early ($200K+ salary for a $2M company) or too late (when cash is already critical). Neither works.
-
-Sprint CFO gives you financial rigor without the overhead — unit economics, cash management, capital allocation, forecasting, and spending benchmarks calibrated specifically for self-funded companies. No VC assumptions. No "raise more money" answers. Every framework works for companies funding growth from their own profits.
-
-Inspired by the financial discipline of Mailchimp ($12B exit, zero VC), Basecamp (25+ years profitable), and ConvertKit ($40M ARR at 51% margins).
+There's a third option.. skip the hire, keep the rigor.
 
 ---
 
-## 🐬 The Skill: [cfo.md](cfo.md)
+## What This Actually Does
 
-A complete financial management framework for bootstrapped businesses. Covers the six areas where self-funded companies make or break their future.
+Sprint CFO runs the same financial diagnostics a top-tier CFO would — unit economics, cash management, capital allocation, forecasting — calibrated for companies that fund growth from profits, not pitch decks.
 
-Add `cfo.md` to your project as a skill file or system prompt. Works with any frontier model that accepts structured instructions.
+No VC assumptions. No "raise more money" answers.
 
-## What's in the box
-
-- **Unit Economics** — LTV:CAC ratios, CAC payback periods, and the thresholds that separate survival from death spiral
-- **Cash Management** — Runway targets, reserve structure, burn multiples, and the 24-month minimum that keeps you in control
-- **Capital Allocation** — Rule of 40, hiring ROI framework, and the payback period test every investment must pass
-- **Working Capital** — Cash conversion cycle, AR/AP discipline, and the annual prepay math that turns customers into your bank
-- **Financial Rhythms** — Weekly, monthly, and quarterly review cadences so nothing surprises you
-- **Forecasting** — Driver-based MRR models, 13-week cash forecasts, and the three scenarios (base/moderate/severe) that keep you prepared
-
-## Reference Materials
-
-| File | What it covers |
-|------|---------------|
-| [references/metrics-benchmarks.md](references/metrics-benchmarks.md) | Detailed calculations for LTV, CAC, NRR, Rule of 40, spending benchmarks by ARR stage, hiring ROI |
-| [references/case-studies.md](references/case-studies.md) | Financial playbooks from Mailchimp, Zapier, Basecamp, ConvertKit, and Zoho |
-
-## Key Numbers at a Glance
+## The Numbers That Matter
 
 | Metric | Target | Danger Zone |
 |--------|--------|-------------|
@@ -46,11 +24,25 @@ Add `cfo.md` to your project as a skill file or system prompt. Works with any fr
 | Revenue/Employee | $200K+ | <$110K |
 | Rule of 40 | Growth % + Margin % >= 40 | <20 |
 
----
+These aren't aspirational. They're the line between survival and death spiral.
 
-## How to use it
+## Five Patterns From Companies That Got It Right
 
-## As a Claude Code slash command
+Mailchimp ($12B exit, zero VC). Basecamp (25+ years profitable). ConvertKit ($40M ARR, 51% margins). Zapier. Zoho.
+
+What they share:
+
+1. **Revenue per employee above $500K** — elite efficiency beats headcount
+2. **CAC approaching zero** — product-led growth, partnerships, ecosystems
+3. **Margins before growth** — profitability is non-negotiable, even early
+4. **Simple pricing** — complex pricing requires complex sales operations
+5. **Annual prepay** — customers finance your growth at 0% interest
+
+Case studies and detailed calculations in [references/](references/).
+
+## How to Use It
+
+### Claude Code slash command
 
 ```
 /cfo should I hire a second developer at $120K?
@@ -58,9 +50,9 @@ Add `cfo.md` to your project as a skill file or system prompt. Works with any fr
 /cfo help me build a 13-week cash forecast
 ```
 
-## Installation
+### Installation
 
-**Global (available in every Claude Code session):**
+**Global (every Claude Code session):**
 
 ```bash
 git clone https://github.com/SimonTheSalesBooster/cfo.git
@@ -68,47 +60,23 @@ cp cfo/.claude/commands/cfo.md ~/.claude/commands/
 cp -r cfo/cfo.md cfo/references ~/cfo/
 ```
 
-**Per-project (available when working in that directory):**
+**Per-project:**
 
 ```bash
 cd your-project
 git clone https://github.com/SimonTheSalesBooster/cfo.git .claude/skills/cfo
 ```
 
-## As a system prompt
+### Standalone
 
-Paste `cfo.md` into any frontier model conversation, then describe your financial question.
-
-## Standalone
-
-Copy the contents of `cfo.md` into ChatGPT, Claude, or any LLM. Then say:
-
-```
-I'm a bootstrapped company at $3M ARR. Should I hire two more engineers?
-```
+Paste `cfo.md` into ChatGPT, Claude, or any frontier model. Then ask your question.
 
 ---
 
-## The five patterns every bootstrapped CFO should know
+## About
 
-From studying Mailchimp, Zapier, Basecamp, ConvertKit, and Zoho:
+Built by Simon Severino — author of *Strategy Sprints* and *Time Freedom* with Jay Abraham. Added over $2 Billion in sales to B2B clients in finance, software, and consulting.
 
-1. **Revenue per employee above $500K** — elite efficiency beats headcount every time
-2. **CAC approaching zero** — through product-led growth, partnerships, or ecosystems
-3. **Margins before growth** — profitability is non-negotiable, even in early stages
-4. **Simple pricing** — complex pricing requires complex sales operations
-5. **Annual prepay** — your customers can finance your growth at 0% interest
+[Book a free Strategy Sprint call](https://www.strategysprints.com)
 
----
-
-## About Strategy Sprints
-
-[Strategy Sprints](https://www.strategysprints.com) helps B2B business owners close bigger deals, faster, without hiring more people. The method: 90-day sprints, weekly reviews, one constraint at a time.
-
-Capital discipline meets execution speed. The CFO skill brings the same rigor to your finances that Strategy Sprints brings to your sales pipeline.
-
-**Book a free Strategy Sprint call:** [strategysprints.com](https://www.strategysprints.com)
-
----
-
-*"Keep rolling, Simon & The Sprinters"*
+*keep rolling, Simon & The Sprinters*
